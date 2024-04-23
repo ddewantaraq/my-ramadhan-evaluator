@@ -1,5 +1,5 @@
 # My Ramadhan Evaluator
-## LLM Apps to evaluate your ramadhan checklist, directly into your source data
+## LLM Apps to evaluate your ramadhan checklist, directly into your source of data(s)
 
 ### Instructions 
   - Assume you have Node version 18 more on your local machine.
